@@ -32,6 +32,9 @@
         -ms-flex-align: center;
             align-items: center;
   }
+  h1{
+    text-align: center;
+  }
   
   .pictures .picture {
     font-size: 1.2rem;
