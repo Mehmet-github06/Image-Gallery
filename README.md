@@ -36,7 +36,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project snapshot](./public/Animation.gif)
+![Project snapshot](../Image-Gallery/project/public/Animation.gif)
 
 To have a better understanding, you can check this sample [app](https://galery-imageapp.netlify.app/)
 
